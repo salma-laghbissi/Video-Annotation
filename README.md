@@ -1,4 +1,5 @@
 **description** 
+
 Une application interactive Tkinter pour annoter les images vidéo avec des étiquettes et des équipes, en enregistrant les annotations dans un format de fichier JSON structuré. Les annotations sont sauvegardées à côté du fichier vidéo au format JSON.
 
 **Utilisation de l'application**
