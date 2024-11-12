@@ -1,6 +1,6 @@
-*. *description*
+1. *description*
 Une application interactive Tkinter pour annoter les images vidéo avec des étiquettes et des équipes, en enregistrant les annotations dans un format de fichier JSON structuré. Les annotations sont sauvegardées à côté du fichier vidéo au format JSON.
-*. *Utilisation de l'application*
+2. *Utilisation de l'application*
 1. Sélectionner un fichier vidéo : Au démarrage de l'application, une boîte de dialogue de sélection de fichiers s'ouvre. Sélectionnez le fichier vidéo que vous souhaitez annoter (formats pris en charge : .mp4, .mkv).
 2. Lire/Pause de la vidéo : Utilisez le bouton "Lire/Pause" pour contrôler la lecture de la vidéo.
 3. Navigation dans les images :
